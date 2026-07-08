@@ -1,0 +1,10 @@
+Package: hydrotools
+Title: Hydro Tools
+Description: Provides essential functions for hydrological analysis
+Version: 1.0
+Authors@R: person("Mandip", "Shrestha", email = "shresthamandip01@gmail.com", role = c("aut", "cre", "cph"))
+License: MIT + file LICENSE
+Video: https://youtu.be/D9FD6ATOmzs
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
